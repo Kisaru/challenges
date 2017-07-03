@@ -1,0 +1,1 @@
+c=lambda x:__import__('re').sub(r'(\w+)\s+\1',r'\1',x)
